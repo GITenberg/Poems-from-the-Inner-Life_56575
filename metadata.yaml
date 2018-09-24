@@ -1,5 +1,8 @@
 _repo: Poems-from-the-Inner-Life_56575
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 56575-h/images/cover.jpg
 creator:
   author:
     agent_name: Doten, Lizzie
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '44339'
     url: http://www.gutenberg.org/2009/agents/44339
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56575#Poems-from-the-Inner-Life
 gutenberg_issued: '2018-02-15'
 gutenberg_type: Text
 identifiers:
